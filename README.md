@@ -1,3 +1,5 @@
+!(/screenshots/clipboard-image-1703357111.png)
+
 # HOW TO USE:
 This project actually contains two projects:
 
