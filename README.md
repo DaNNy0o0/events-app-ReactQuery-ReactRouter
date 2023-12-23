@@ -1,4 +1,5 @@
-!(screenshots/clipboard-image-1703357111.png)
+![clipboard-image-1703357111](https://github.com/DaNNy0o0/events-app-ReactQuery-ReactRouter/assets/93887853/aaeab110-519b-4217-a647-8ae1588a782e)
+
 
 # HOW TO USE:
 This project actually contains two projects:
